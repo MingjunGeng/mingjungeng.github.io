@@ -5,6 +5,9 @@
 ## Below are the links to my profiles....
 
 - [Porfolio](https://mingjungeng.github.io/)
+- [Blog](https://mingjungeng.github.io/)
+- [Twitter](https://mingjungeng.github.io/)
+- [LinkedIn](https://https://www.linkedin.com/in/mjgeng/)
 
 ## More about me....
 
@@ -54,3 +57,5 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/7886233/159177980-71eb16de-501b-4e5b-a09e-2e0de9082639.png" alt="linux" width="55" height="55"/> </a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106028-e01de455-56aa-4e14-abf7-0db538dad915.png" height="60"/></a>
  
+ 
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=mingjungeng&show_icons=true alt=mingjungeng /> </p>
